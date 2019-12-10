@@ -8,6 +8,43 @@ import * as serviceWorker from './serviceWorker';
 //tutorial url: https://jscomplete.com/playground/rgs1.2
 //tutorial url: https://jscomplete.com/playground/rgs1.3
 //tutorial url: https://jscomplete.com/playground/rgs1.4
+// function Button(props) {
+// 	//const [counter, setCounter] = useState(0);
+//   //const handleClick = () => setCounter(counter+1);
+// 	return (
+//     <button onClick={props.onClickFunction}>
+//       +1
+//     </button>);
+// }
+
+// //Display
+// function Display(props) {
+//   return (
+//     <div>{props.message}</div>
+//   );
+// }
+
+// function App() {
+//   const [counter, setCounter] = useState(42);
+//   const incrementCounter = () => setCounter(counter+1);
+//   return (
+//     <div>
+//       <Button onClickFunction={incrementCounter} />
+//       <Display message={counter}/>
+//     </div>
+//   );
+// }
+
+// ReactDOM.render(
+// <App />,
+//   document.getElementById('mountNode'),
+// )
+/*
+ReactDOM.render(
+  [<Button />, <Display />], 
+  document.getElementById('mountNode'),
+);*/
+
 // function Button() {
 // 	const [counter, setCounter] = useState(0);
 //   const handleClick = () => setCounter(counter+1);
