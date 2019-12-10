@@ -24,7 +24,7 @@ By default start script React starts application on your http://localhost:3000
 
 npm start
 
-> gettingstarted@0.1.0 start C:\Users\sarjatom\Repos\Pluralsight\React\gettingstarted
+> gettingstarted@0.1.0 start C:\yourpath
 > react-scripts start
 Starting the development server...
 Compiled successfully!
@@ -40,7 +40,7 @@ To create a production build, use npm run build.
 port can be changed in package.json file by setting port on start script line 
 "start": "react-scripts start", --> "start": "set PORT=3006 && react-scripts start",
 
-> gettingstarted@0.1.0 start C:\Users\sarjatom\Repos\Pluralsight\React\gettingstarted
+> gettingstarted@0.1.0 start C:\yourpath
 > set PORT=3006 && react-scripts start
 Starting the development server...
 Compiled successfully!

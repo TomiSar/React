@@ -10,6 +10,7 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload.
         </p>
+        <button>TEST</button>
         <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
           Learn React
         </a>
@@ -17,5 +18,7 @@ function App() {
     </div>
   );
 }
-
+// var button = function() {
+//   return <button>TEST</button>
+// }
 export default App;
