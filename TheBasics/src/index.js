@@ -7,6 +7,7 @@ import * as serviceWorker from './serviceWorker';
 ReactDOM.render(<App />, document.getElementById('root'));
 serviceWorker.unregister();
 
+//#region The Basics 
 //** The basics **//
 //Virtual DOM nodes and JSX
 
@@ -184,4 +185,4 @@ ReactDOM.render(
   <Hello />,
   document.getElementById('mountNode')
 );*/
-
+//#endregion

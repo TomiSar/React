@@ -18,7 +18,5 @@ function App() {
     </div>
   );
 }
-// var button = function() {
-//   return <button>TEST</button>
-// }
+
 export default App;

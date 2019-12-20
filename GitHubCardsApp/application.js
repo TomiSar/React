@@ -1,3 +1,13 @@
+//The Star Match Game
+// url: https://jscomplete.com/playground/rgs3.1
+// url: https://jscomplete.com/playground/rgs3.2
+// url: https://jscomplete.com/playground/rgs3.3
+// url: https://jscomplete.com/playground/rgs3.4
+// url: https://jscomplete.com/playground/rgs3.5
+// url: https://jscomplete.com/playground/rgs3.6
+// url: https://jscomplete.com/playground/rgs3.7
+// Using Custom hooks https://jscomplete.com/playground/rgs3.7
+
 // import React from 'react';
 // import ReactDOM from 'react-dom';
 //Github API data from https://api.github.com/users/    
@@ -7,6 +17,7 @@
 //Initializing and reading the state object url https://jscomplete.com/playground/rgs2.4
 //Taking input from user url https://jscomplete.com/playground/rgs2.5
 //Working with Ajax Calls url https://jscomplete.com/playground/rgs2.6
+//url: https://jscomplete.com/playground/rgs2.7
 
 class Card extends React.Component {
     render() {
