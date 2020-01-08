@@ -28,9 +28,11 @@ describe("When testing directly", () => {
     it("has children", () => {
         expect(result.props.children).toBeTruthy();
     })
+    //#region trivial test
     // it("should pass", () => {
     //     expect(2 + 2).toBe(4); //Pass
     // });
+    //#endregion
 });
 
 describe("When testing with ReactDOM", () => {

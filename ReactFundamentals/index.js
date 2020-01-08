@@ -62,7 +62,17 @@
 //--Props and state
 //--PropTypes and TypeScript
 
-//4. JSX
+//4. JSX 
+//Introduction
+//What is JSX?
+//Not using JSX
+//Props in JSX
+//Spread attributes 
+//Events
+//React data flow
+//JSX and HTML
+//Unescaping content 
+//Child expression and elements
 
 //5. Events
 
