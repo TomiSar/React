@@ -75,6 +75,16 @@
 //Child expression and elements
 
 //5. Events
+//Introduction
+//Events
+//DOM events
+//preventDefault
+//--Stop the browser doing what it would normally do
+//Component events
+//--Domain specific events
+//--Higher abstraction
+//--Call a function prop
+//--Data out of a copmponent
 
 //6. Forms
 
