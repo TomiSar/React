@@ -87,5 +87,18 @@
 //--Data out of a copmponent
 
 //6. Forms
+//Form elements
+//Allowing user input
+//--Add state to the component
+//--Bind inputs to the component state
+//--Use onChange handler to update state
+//Form libraries
+//--Form can be time consuming
+//--Many form libraries are available 
+//--Increase productivity, decrease control
+//Form validation
+//Adding Routes to Author Quiz  
+//Refs
+//Adding Forms to Author Quiz
 
 //7. State
